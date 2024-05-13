@@ -20,7 +20,7 @@ import { WorkComponent } from './work/work.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
